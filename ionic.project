@@ -1,0 +1,10 @@
+{
+  "name": "contat_form",
+  "app_id": "",
+  "proxies": [
+    {
+      "path": "/api",
+      "proxyUrl": "http://form-bo.local/api"      
+    }
+  ]
+}
